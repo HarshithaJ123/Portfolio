@@ -644,6 +644,11 @@ body.dark-theme .hero {
   list-style: none;
 }
 
+.project-card .experience-details {
+  margin-bottom: 20px;
+  flex-grow: 1;
+}
+
 .experience-details li, .project-bullets li {
   position: relative;
   padding-left: 20px;
